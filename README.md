@@ -16,3 +16,15 @@ Load the Data and Import Libraries
 Visualize the Data
 
 Define the Logistic Sigmoid Function 𝜎(𝑧)
+
+Compute the Cost Function 𝐽(𝜃) and Gradient
+
+Cost and Gradient at Initialization
+
+Implement Gradient Descent
+
+Plotting the Convergence of 𝐽(𝜃)
+
+Plotting the Decision Boundary
+
+Predictions Using the Optimized 𝜃 Values
