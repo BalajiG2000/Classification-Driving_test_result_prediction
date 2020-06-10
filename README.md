@@ -9,3 +9,10 @@ I tried  to build a logistic regression model using Python and NumPy, conduct ba
 
 Steps Involved:
 
+Introduction and Project Overview
+
+Load the Data and Import Libraries
+
+Visualize the Data
+
+Define the Logistic Sigmoid Function 𝜎(𝑧)
