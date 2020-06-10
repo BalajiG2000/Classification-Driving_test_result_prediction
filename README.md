@@ -6,6 +6,13 @@ I implemented all the machinery, including gradient descent, cost function, and 
 
 I tried  to build a logistic regression model using Python and NumPy, conduct basic exploratory data analysis, and implement gradient descent from scratch.
 
+NOTE:
+
+We can interpret the output of the logistic sigmoid function as a probability, since this function outputs in the range 0 to 1 for any input.
+We can threshold the function at 50% to make our classification.
+
+
+
 
 Steps Involved:
 
